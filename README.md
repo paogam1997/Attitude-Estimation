@@ -1,5 +1,5 @@
-ESAME DI SISTEMI DI GUIDA E NAVIGAZIONE - Introduzione alla stima non lineare d'assetto
-Candidato: Paolo Gambino
+SISTEMI DI GUIDA E NAVIGAZIONE - Introduzione alla stima non lineare d'assetto
+Candidato: Paolo 
 -------------------------------------------------------------------------------------------------------------------------------
 Il presente Read-me è stato creato per guidare all'uso degli script Matlab e Simulink necessari per ottenere i risultati 
 presentati nella relazione finale.
