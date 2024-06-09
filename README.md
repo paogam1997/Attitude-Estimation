@@ -25,3 +25,7 @@ Per l'algoritmo TRIAD si può scegliere la combinazione delle misure inerziali d
 "Sim3D_VTOL_dyn" è uno script aggiuntivo, non sono riuscito a farlo funzionare bene, dovrebbe mostrare un cubo rappresentante il velivolo 
 	ed i suoi assi principali. C'è un cubo che ruota seguendo gli angoli veri di Eulero e poi un cubo per ogni metodo di stima
 	dinamica rotante secondo gli angoli stimati con tale metodologia.
+
+
+ Please contact me privately if you would like a copy of the project pdf.
+
